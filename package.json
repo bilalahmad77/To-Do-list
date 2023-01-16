@@ -1,0 +1,31 @@
+{
+    "name": "to-do-list",
+    "version": "1.0.0",
+    "description": "To Do List",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bilalahmad77/To-Do-List.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/bilalahmad77/To-Do-List/issues"
+    },
+    "homepage": "https://github.com/bilalahmad77/To-Do-List#readme",
+    "dependencies": {
+        "chalk": "^5.2.0",
+        "figlet": "^1.5.2",
+        "inquirer": "^9.1.4"
+    },
+    "devDependencies": {
+        "@types/chalk": "^2.2.0",
+        "@types/figlet": "^1.5.5",
+        "@types/inquirer": "^9.0.3"
+    }
+}
