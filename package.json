@@ -1,6 +1,6 @@
 {
-    "name": "to-do-list",
-    "version": "1.0.0",
+    "name": "to-do-list-by-bilal",
+    "version": "1.0.1",
     "description": "To Do List",
     "main": "index.js",
     "type": "module",
